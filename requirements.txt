@@ -1,4 +1,4 @@
-praw
+gunicorn
 flask
 werkzeug
 requests
